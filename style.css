@@ -1,9 +1,9 @@
   body {
     background-color: #FDFBF7;
     color: #222222;
-    max-width: 560px;
+    max-width: 36rem;
     margin: 0 auto;
-    font-size: large;
+    font-size: 1.2rem;
   }
 
   a {
