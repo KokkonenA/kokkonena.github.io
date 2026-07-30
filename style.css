@@ -1,9 +1,11 @@
   body {
     background-color: #FDFBF7;
     color: #222222;
-    max-width: 36rem;
+    max-width: 32rem;
     margin: 0 auto;
+    font-family: monospace;
     font-size: clamp(0.8rem, 6vw, 1.2rem);
+    line-height: 1;
   }
 
   a {
